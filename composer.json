@@ -1,0 +1,17 @@
+{
+	"name": "anver/elementor-theme-switcher",
+	"description": "Elementor Theme Switcher",
+	"type": "theme-switcher-elementor",
+	"authors": [
+		{
+			"name": "anver",
+			"email": "anvergdr@gmail.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"SmaartWeb\\Elementor\\ThemeSwitcher\\": ""
+		}
+	},
+	"require": {}
+}
